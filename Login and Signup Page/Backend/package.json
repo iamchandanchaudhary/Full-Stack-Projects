@@ -1,0 +1,19 @@
+{
+  "name": "signup-and-login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type:": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Chandan Chaudhary",
+  "license": "ISC",
+  "description": "signup & login page",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.1"
+  }
+}
